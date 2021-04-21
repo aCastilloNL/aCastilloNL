@@ -4,7 +4,7 @@
 <p align="center">A Full-Stack Developer based in the Netherlands &#127475;&#127473;.</p>
 <p align="center">My programming language is JavaScript and I work primarily with MERN Stack.</p>
 
-<br><br>
+<br>
 
 <p align='center'>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
