@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome 👋
+
+<p align="center>
+I'm Alfred.
+A Full-Stack Developer based in the Netherlands &#127475;&#127473; .
+I'm a JavaScript programmer and work primarily with MERN Stack.
+</p>
 
 <!--
 **aCastilloNL/aCastilloNL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
