@@ -1,4 +1,4 @@
-<p align="center">### Welcome 👋</p>
+### <p align="center">Welcome 👋</p>
 
 <p align="center">I'm Alfred.</p>
 <p align="center">A Full-Stack Developer based in the Netherlands &#127475;&#127473;.</p>
