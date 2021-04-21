@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-<p align="center>
+<p align="center">
 I'm Alfred.
 A Full-Stack Developer based in the Netherlands &#127475;&#127473; .
 I'm a JavaScript programmer and work primarily with MERN Stack.
