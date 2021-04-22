@@ -2,7 +2,7 @@
 
 <p align="center">I'm Alfred.</p>
 <p align="center">A Full-Stack Developer based in the Netherlands &#127475;&#127473;.</p>
-<p align="center">My programming language is JavaScript and I work primarily with MERN Stack.</p>
+<p align="center">My language is JavaScript and I work primarily with MERN Stack.</p>
 
 <br>
 
